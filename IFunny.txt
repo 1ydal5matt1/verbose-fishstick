@@ -118,7 +118,6 @@ crpr.trckswrm.com
 d.everestop.io
 e1.o.lencr.org
 eksmedia.g2afse.com
-fonts.googleapis.com
 i.track2mobile.com
 il1i.co
 lacertamobile.com
